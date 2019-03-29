@@ -18,6 +18,6 @@
         android:theme="@style/AppTheme" >
        
         <service android:name="PrintService"/>
-    </application>
+    </application> 
 
 </manifest>
